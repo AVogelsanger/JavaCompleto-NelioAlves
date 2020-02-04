@@ -7,7 +7,7 @@ import java.util.Scanner;
 import entities.Company;
 import entities.Individual;
 import entities.TaxPayer;
-import enums.Type;
+
 
 public class ProgramTax {
 
