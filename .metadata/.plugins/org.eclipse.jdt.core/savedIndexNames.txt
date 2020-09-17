@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 INDEX VERSION 1.131+/home/vogue/eclipse-workspace/JavaCompleto-NelioAlves/.metadata/.plugins/org.eclipse.jdt.core
 2359322674.index
 3883508318.index
@@ -33,3 +34,40 @@ INDEX VERSION 1.131+/home/vogue/eclipse-workspace/JavaCompleto-NelioAlves/.metad
 3483753918.index
 5990989.index
 292910677.index
+=======
+INDEX VERSION 1.131+C:\Eclipse\JavaComp2019-NelioAlves\JavaCompleto-NelioAlves\.metadata\.plugins\org.eclipse.jdt.core
+2054194808.index
+1245022933.index
+2574655887.index
+3724312790.index
+1608528671.index
+1724248983.index
+218847827.index
+2841418150.index
+4167724748.index
+3916095635.index
+3580671891.index
+2000557192.index
+3778451979.index
+68611917.index
+2738631464.index
+3924940057.index
+2162209334.index
+3478434063.index
+1318073751.index
+4164296268.index
+1737275488.index
+1175272167.index
+3009130688.index
+3793782977.index
+1937937636.index
+87070605.index
+3200264444.index
+2083043589.index
+3504996842.index
+565870986.index
+3424761750.index
+1311534519.index
+2715629415.index
+1608236326.index
+>>>>>>> 532b663a64c6c5d667cc5113eb98d44eac2072d2
